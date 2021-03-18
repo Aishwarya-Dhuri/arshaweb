@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Aishwarya-Dhuri/arshaweb.git/static/css/main.4fd981b4.chunk.css",
-    "main.js": "/Aishwarya-Dhuri/arshaweb.git/static/js/main.8acbd192.chunk.js",
-    "main.js.map": "/Aishwarya-Dhuri/arshaweb.git/static/js/main.8acbd192.chunk.js.map",
+    "main.js": "/Aishwarya-Dhuri/arshaweb.git/static/js/main.b44a56c9.chunk.js",
+    "main.js.map": "/Aishwarya-Dhuri/arshaweb.git/static/js/main.b44a56c9.chunk.js.map",
     "runtime-main.js": "/Aishwarya-Dhuri/arshaweb.git/static/js/runtime-main.dc01b642.js",
     "runtime-main.js.map": "/Aishwarya-Dhuri/arshaweb.git/static/js/runtime-main.dc01b642.js.map",
     "static/css/2.150d169a.chunk.css": "/Aishwarya-Dhuri/arshaweb.git/static/css/2.150d169a.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.7c3e9ec1.chunk.js",
     "static/css/main.4fd981b4.chunk.css",
-    "static/js/main.8acbd192.chunk.js"
+    "static/js/main.b44a56c9.chunk.js"
   ]
 }
